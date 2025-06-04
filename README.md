@@ -21,13 +21,6 @@ Un outil simple, efficace, et directement intégré via une commande en jeu.
 
 ---
 
-## :books: Liens
-
-- [ReadMe](https://github.com/Feniix98/SMairie)  
-- [Téléchargement](https://github.com/Feniix98/SMairie/releases)
-
----
-
 ## :pushpin: Dépendances
 
 **Aucune**
